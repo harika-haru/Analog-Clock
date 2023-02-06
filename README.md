@@ -1,2 +1,2 @@
 # Analog-Clock
-Its an analog clock
+https://github.com/harika-haru/Analog-Clock.git
